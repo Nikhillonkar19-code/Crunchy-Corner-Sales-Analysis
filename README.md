@@ -86,7 +86,7 @@ The dashboard delivers insights into:
 | **Performance Analysis** | [![Performance Analysis](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Performance%20Analysis.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Performance%20Analysis.jpeg) |
 | **Cost Analysis** | [![Cost Analysis](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Cost%20Analysis.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Cost%20Analysis.jpeg) |
 | **SKU Level Turnover** | [![SKU Level Turnover](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Sku%20Level%20Turnover.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Sku%20Level%20Turnover.jpeg) |
-| **Budgeting Analysis B** | [![Budgeting Analysis](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Budgeting%20Analysis.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Budgeting%20Analysis.jpeg) |
+| **Budgeting Analysis** | [![Budgeting Analysis](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Budgeting%20Analysis.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Budgeting%20Analysis.jpeg) |
 | **Cluster Head** | [![Cluster Head](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Cluster%20Head.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Cluster%20Head.jpeg) |
 | **Mekko Chart** | [![Mekko Chart](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Mekko%20%20chart.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Mekko%20%20chart.jpeg) |
 | **Quadrant Analysis** | [![Quadrant Analysis](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Quadrant%20Analysis.jpeg)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Quadrant%20Analysis.jpeg) |
@@ -98,6 +98,11 @@ The dashboard delivers insights into:
 
 ---
 
+## 🗂 Data Model
+[![Crunchy Corner Data Model](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Crunchy%20corner%20Data%20model.png)](https://github.com/Nikhillonkar19-code/Crunchy-Corner-Sales-Analysis/blob/main/Crunchy%20corner%20Data%20model.png)
+
+---
+
 ## 🧠 Learning Outcomes
 Through this project, I enhanced my expertise in:
 - **ETL workflows** using Excel and Power Query
@@ -105,8 +110,6 @@ Through this project, I enhanced my expertise in:
 - Advanced **DAX expressions**
 - Building **business-focused dashboards**
 - Turning **raw data into actionable insights**
-
-
 
 ---
 
